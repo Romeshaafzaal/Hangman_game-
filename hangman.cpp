@@ -1,4 +1,4 @@
-//Romesha Afzaal 24L-3001, Hassan Ashraf 24L-3073, Iman Abid 24L-0707
+
  #include <iostream>
 #include <cstdlib>
 #include <ctime>
