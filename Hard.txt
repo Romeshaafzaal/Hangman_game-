@@ -1,0 +1,6 @@
+paris
+Tokyo
+ford
+bmw
+dubai
+sydney"
